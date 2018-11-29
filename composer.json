@@ -1,0 +1,15 @@
+{
+    "name": "ronnylindner/factory-stuff",
+    "authors": [
+        {
+            "name": "Ronny Lindner",
+            "email": "ronnylindner@immorocks.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
